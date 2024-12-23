@@ -1,5 +1,7 @@
 # @bshg/validation
 
+are you using this library? [let us discuss on github](https://github.com/bshgenerator/ts-validation/discussions)
+
 visit our docs site: [Bshg Docs](https://docs.bshgen.com/ts-validation)
 
 Welcome to `@bshg/validation`, a versatile TypeScript library crafted for seamless data validation within your projects.
